@@ -1,0 +1,217 @@
+[09:24:20.927] [Start] 程序版本：Release 2.4.9（281）
+[09:24:20.927] [Start] 识别码：E2E9-F73F-6A56-74AD
+[09:24:20.927] [Start] 程序路径：C:\FKOS\Plain Craft Launcher 2.exe
+[09:24:20.936] [Start] 第一阶段加载用时：78 ms
+[09:24:21.078] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[09:24:21.078] [Start] 第二阶段加载用时：125 ms
+[09:24:21.089] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[09:24:21.395] [System] 窗口已置顶，位置：(232.5, 84), 815 x 584
+[09:24:21.395] [Animation] 动画线程开始
+[09:24:21.395] [Start] 第三阶段加载用时：93 ms
+[09:24:21.411] [Start] 加载 DLL：Json
+[09:24:21.411] [System] 获取资源：Json
+[09:24:21.411] [System] 尝试缓存加载主页自定义数据（0）
+[09:24:21.429] [Launch] Minecraft 文件夹：E:\minecraft\
+[09:24:21.528] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[09:24:21.528] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[09:24:21.594] [Skin] 载入头像成功：Loader Skin Legacy
+[09:24:21.665] [Java] 缓存中有 4 个可用的 Java
+[09:24:21.729] [Minecraft] 启动按钮：Minecraft 版本：E:\minecraft\versions\1.16.5-Forge_36.2.34-OptiFine_G8\
+[09:24:21.729] [Loader] 加载器 登录 状态改变：Loading
+[09:24:21.744] [Launch] 登录加载已开始
+[09:24:21.744] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[09:24:21.744] [Launch] 登录方式：离线（LYF）
+[09:24:21.744] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[09:24:21.776] [Launch] 登录加载已结束
+[09:24:21.776] [Loader] 加载器 登录 状态改变：Finished
+[09:24:21.878] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[09:24:21.878] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[09:24:21.888] [Server] 正在连接到 PCL2 服务器
+[09:24:21.894] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[09:24:21.911] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1683595462-277c5386-0-cc9286ddc53aff115be361e2f42580ce，最大超时 10000
+[09:24:21.967] [Server] 服务器公告：102|289|286|5，无需更新
+[09:24:21.994] [Loader] 加载器 源码获取 95# 状态改变：Loading
+[09:24:22.064] [Download] -1926943003_94 98#：开始，起始点 0，http://pcl2-server-1253424809.file.myqcloud.com/minecraft/download.json?sign=1683595462-506ab3bb-0-322a3c64429c6b94fd23401fcbabf2ad
+[09:24:22.079] [Download] -1926943003_94：文件大小 3896 B（3.8 K）
+[09:24:22.111] [System] DPI：192，系统版本：10.0.23451.0，PCL 位置：C:\FKOS\Plain Craft Launcher 2.exe
+[09:24:22.127] [Download] -1926943003_94：已完成，剩余文件 0
+[09:24:22.127] [Loader] 加载器 源码获取 95# 状态改变：Finished
+[09:24:22.144] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1683595462-347de883-0-cd4fe13096c6fe6e0289b8c479cf656a，最大超时 10000
+[09:24:22.178] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[09:24:22.861] [Control] 普通弹窗：Minecraft 更新提示
+新版本：23w18a
+更新时间：2023/5/3 19:29:26
+[09:24:25.905] [Control] 按下按钮：更新日志
+[09:24:25.911] [Control] 普通弹框返回：2
+[09:24:25.911] [System] 正在打开网页：https://minecraft.fandom.com/zh/wiki/23w18a
+[09:24:25.982] [Loader] 加载器 DlClientList Mojang 状态改变：Finished
+[09:24:29.701] [Control] 按下按钮：版本选择
+[09:24:29.749] [Control] 切换主要页面：VersionSelect, 0
+[09:24:29.956] [Minecraft] 有效的 Minecraft 文件夹：当前文件夹 > C:\FKOS\.minecraft\
+[09:24:29.960] [Minecraft] 有效的 Minecraft 文件夹：minecraft > E:\minecraft\
+[09:24:29.986] [Loader] 加载器 Minecraft Version List 状态改变：Loading
+[09:24:30.050] [Setup] 当前选择的 Minecraft 版本：1.16.5-Forge_36.2.34-OptiFine_G8
+[09:24:30.050] [Minecraft] 选择该文件夹储存的 Minecraft 版本：E:\minecraft\versions\1.16.5-Forge_36.2.34-OptiFine_G8\
+[09:24:30.130] [Loader] 加载器 Minecraft Version List 状态改变：Finished
+[09:24:30.717] [Report] FPS 0, 动画 13, 下载中 0（0 B/s）
+[09:24:31.920] [Setup] 当前选择的 Minecraft 版本：1.19.4-Forge_45.0.50-OptiFine_I4
+[09:24:31.920] [Control] 切换主要页面：Launch, -1
+[09:24:31.927] [Control] 按下单击列表项：1.19.4-Forge_45.0.50-OptiFine_I4
+[09:24:32.010] [Minecraft] 启动按钮：Minecraft 版本：E:\minecraft\versions\1.19.4-Forge_45.0.50-OptiFine_I4\
+[09:24:35.265] [Control] 按下按钮：启动游戏
+[09:24:35.277] [Loader] 加载器 Loader Launch 状态改变：Loading
+[09:24:35.297] [System] 欲读取的文件不存在，已返回空字符串：C:\FKOS\PCL\hints.txt
+[09:24:35.345] [Launch] 预检测已通过
+[09:24:35.345] [Download] 开始后台更新资源文件索引
+[09:24:35.345] [Loader] 加载器 后台更新资源文件索引 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 登录 状态改变：Waiting
+[09:24:35.361] [Loader] 加载器 Minecraft 启动 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 Java 处理 状态改变：Loading
+[09:24:35.361] [Download] 版本 1.19.4-Forge_45.0.50-OptiFine_I4 对应的资源文件索引为 3
+[09:24:35.361] [Loader] 加载器 后台分析资源文件索引地址 状态改变：Finished
+[09:24:35.361] [Loader] 加载器 后台下载资源文件索引 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 Java 验证 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 登录 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 补全文件 状态改变：Loading
+[09:24:35.361] [Launch] 登录加载已开始
+[09:24:35.361] [Launch] 登录加载已结束
+[09:24:35.361] [Loader] 加载器 登录 状态改变：Finished
+[09:24:35.361] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 分析缺失支持库文件 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Loading
+[09:24:35.361] [Loader] 加载器 分析资源文件索引地址 状态改变：Loading
+[09:24:35.361] [Download] 版本 1.19.4-Forge_45.0.50-OptiFine_I4 对应的资源文件索引为 3
+[09:24:35.376] [Launch] Java 版本需求：最低 1.17.0.0，最高 1.18.999.999
+[09:24:35.384] [Java] 开始完全遍历查找：E:\minecraft\
+[09:24:35.394] [Loader] 加载器 分析资源文件索引地址 状态改变：Finished
+[09:24:35.394] [Loader] 加载器 下载资源文件索引 状态改变：Loading
+[09:24:35.394] [Java] 开始完全遍历查找：E:\minecraft\versions\1.19.4-Forge_45.0.50-OptiFine_I4\
+[09:24:35.404] [Loader] 加载器 下载资源文件索引 状态改变：Finished
+[09:24:35.404] [Loader] 加载器 分析缺失资源文件 状态改变：Loading
+[09:24:35.409] [Download] 3.json 288#：开始，起始点 0，https://piston-meta.mojang.com/v1/packages/101181ddae083d4cf828eff70e4edea5d519d7e3/3.json
+[09:24:35.411] [System] 执行外部命令并等待返回结果：D:\Program Files\Java\jdk-17\bin\java.exe -version
+[09:24:35.502] [Minecraft] 获取支持库列表：1.19.4-Forge_45.0.50-OptiFine_I4
+[09:24:35.565] [Loader] 加载器 分析缺失资源文件 状态改变：Finished
+[09:24:35.565] [Loader] 加载器 下载资源文件 状态改变：Loading
+[09:24:35.565] [Loader] 加载器 下载资源文件 状态改变：Finished
+[09:24:35.565] [Loader] 加载器 下载资源文件（主加载器） 状态改变：Finished
+[09:24:35.828] [Download] 3.json：文件大小 409894 B（400 K）
+[09:24:36.050] [Java] 选定的 Java：JDK 17 (17.0.7)，64 位：D:\Program Files\Java\jdk-17\bin\
+[09:24:36.050] [Launch] 选择的 Java：JDK 17 (17.0.7)，64 位：D:\Program Files\Java\jdk-17\bin\
+[09:24:36.050] [Loader] 加载器 Java 验证 状态改变：Finished
+[09:24:36.050] [Loader] 加载器 Java 处理 状态改变：Finished
+[09:24:36.170] [Download] 3.json 305#：出错，基础连接已经关闭: 发送时发生错误。
+你的网络环境不佳，导致难以连接到服务器。请检查网络，多重试几次，或尝试使用 VPN。
+————————————
+详细错误信息：
+→ 无法从传输连接中读取数据: 远程主机强迫关闭了一个现有的连接。。
+→ 远程主机强迫关闭了一个现有的连接。
+   在 PCL.ModNet.NetFile.Thread(NetThread Info)
+错误类型：System.Net.Sockets.SocketException
+[09:24:36.830] [Download] 3.json：已完成，剩余文件 0
+[09:24:36.830] [Loader] 加载器 后台下载资源文件索引 状态改变：Finished
+[09:24:36.830] [Loader] 加载器 后台复制资源文件索引 状态改变：Loading
+[09:24:36.830] [Launch] 后台更新资源文件索引成功：C:\Users\34062\AppData\Local\Temp\PCL\Cache\3.json
+[09:24:36.830] [Loader] 加载器 后台复制资源文件索引 状态改变：Finished
+[09:24:36.830] [Loader] 加载器 后台更新资源文件索引 状态改变：Finished
+[09:24:41.960] [Loader] 加载器 分析缺失支持库文件 状态改变：Finished
+[09:24:41.960] [Loader] 加载器 下载支持库文件 状态改变：Loading
+[09:24:41.960] [Loader] 加载器 下载支持库文件 状态改变：Finished
+[09:24:41.960] [Loader] 加载器 下载支持库文件（主加载器） 状态改变：Finished
+[09:24:41.960] [Loader] 加载器 补全文件 状态改变：Finished
+[09:24:41.969] [Loader] 加载器 获取启动参数 状态改变：Loading
+[09:24:41.977] [Launch] 开始获取 Minecraft 启动参数
+[09:24:41.977] [Launch] 获取新版 JVM 参数
+[09:24:41.987] [Launch] 当前剩余内存：7.2G
+[09:24:42.001] [System] 获取资源：JavaWrapper
+[09:24:42.001] [Java] 已释放 Java Wrapper：C:\Users\34062\AppData\Roaming\PCL\JavaWrapper.jar
+[09:24:42.006] [Launch] 新版 JVM 参数获取成功：
+[09:24:42.006] [Launch] -Doolloo.jlw.tmpdir="C:\Users\34062\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name=Windows 10 -Dos.version=10.0 -Djava.library.path=${natives_directory} -Dminecraft.launcher.brand=${launcher_name} -Dminecraft.launcher.version=${launcher_version} -cp ${classpath} -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,${version_name}.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory=${library_directory} -p ${library_directory}/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar${classpath_separator}${library_directory}/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar${classpath_separator}${library_directory}/org/ow2/asm/asm/9.3/asm-9.3.jar${classpath_separator}${library_directory}/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx5017m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\34062\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher
+[09:24:42.006] [Launch] 获取新版 Game 参数
+[09:24:42.010] [Launch] 发现正确的 OptiFineForge TweakClass，目前参数：--username ${auth_player_name} --version ${version_name} --gameDir ${game_directory} --assetsDir ${assets_root} --assetIndex ${assets_index_name} --uuid ${auth_uuid} --accessToken ${auth_access_token} --clientId ${clientid} --xuid ${auth_xuid} --userType ${user_type} --versionType ${version_type} --width ${resolution_width} --height ${resolution_height} --tweakClass optifine.OptiFineForgeTweaker --launchTarget forgeclient --fml.forgeVersion 45.0.50 --fml.mcVersion 1.19.4 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20230314.122934
+[09:24:42.010] [Launch] 新版 Game 参数获取成功
+[09:24:42.018] [Minecraft] 获取支持库列表：1.19.4-Forge_45.0.50-OptiFine_I4
+[09:24:42.048] [Launch] Minecraft 启动参数：
+[09:24:42.055] [Launch] -Doolloo.jlw.tmpdir="C:\Users\34062\AppData\Roaming\PCL" -XX:+UseG1GC -XX:-UseAdaptiveSizePolicy -XX:-OmitStackTraceInFastThrow -Dfml.ignoreInvalidMinecraftCertificates=True -Dfml.ignorePatchDiscrepancies=True -Dlog4j2.formatMsgNoLookups=true -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Dos.name="Windows 10" -Dos.version=10.0 -Djava.library.path="E:\minecraft\versions\1.19.4-Forge_45.0.50-OptiFine_I4\1.19.4-Forge_45.0.50-OptiFine_I4-natives" -Dminecraft.launcher.brand=PCL2 -Dminecraft.launcher.version=281 -cp "E:\minecraft\libraries\com\github\oshi\oshi-core\6.2.2\oshi-core-6.2.2.jar;E:\minecraft\libraries\com\google\code\gson\gson\2.10\gson-2.10.jar;E:\minecraft\libraries\com\google\guava\failureaccess\1.0.1\failureaccess-1.0.1.jar;E:\minecraft\libraries\com\google\guava\guava\31.1-jre\guava-31.1-jre.jar;E:\minecraft\libraries\com\ibm\icu\icu4j\71.1\icu4j-71.1.jar;E:\minecraft\libraries\com\mojang\authlib\3.18.38\authlib-3.18.38.jar;E:\minecraft\libraries\com\mojang\blocklist\1.0.10\blocklist-1.0.10.jar;E:\minecraft\libraries\com\mojang\brigadier\1.0.18\brigadier-1.0.18.jar;E:\minecraft\libraries\com\mojang\datafixerupper\6.0.6\datafixerupper-6.0.6.jar;E:\minecraft\libraries\com\mojang\logging\1.1.1\logging-1.1.1.jar;E:\minecraft\libraries\com\mojang\patchy\2.2.10\patchy-2.2.10.jar;E:\minecraft\libraries\com\mojang\text2speech\1.16.7\text2speech-1.16.7.jar;E:\minecraft\libraries\commons-codec\commons-codec\1.15\commons-codec-1.15.jar;E:\minecraft\libraries\commons-io\commons-io\2.11.0\commons-io-2.11.0.jar;E:\minecraft\libraries\commons-logging\commons-logging\1.2\commons-logging-1.2.jar;E:\minecraft\libraries\io\netty\netty-buffer\4.1.82.Final\netty-buffer-4.1.82.Final.jar;E:\minecraft\libraries\io\netty\netty-codec\4.1.82.Final\netty-codec-4.1.82.Final.jar;E:\minecraft\libraries\io\netty\netty-common\4.1.82.Final\netty-common-4.1.82.Final.jar;E:\minecraft\libraries\io\netty\netty-handler\4.1.82.Final\netty-handler-4.1.82.Final.jar;E:\minecraft\libraries\io\netty\netty-resolver\4.1.82.Final\netty-resolver-4.1.82.Final.jar;E:\minecraft\libraries\io\netty\netty-transport-classes-epoll\4.1.82.Final\netty-transport-classes-epoll-4.1.82.Final.jar;E:\minecraft\libraries\io\netty\netty-transport-native-unix-common\4.1.82.Final\netty-transport-native-unix-common-4.1.82.Final.jar;E:\minecraft\libraries\io\netty\netty-transport\4.1.82.Final\netty-transport-4.1.82.Final.jar;E:\minecraft\libraries\it\unimi\dsi\fastutil\8.5.9\fastutil-8.5.9.jar;E:\minecraft\libraries\net\java\dev\jna\jna-platform\5.12.1\jna-platform-5.12.1.jar;E:\minecraft\libraries\net\java\dev\jna\jna\5.12.1\jna-5.12.1.jar;E:\minecraft\libraries\net\sf\jopt-simple\jopt-simple\5.0.4\jopt-simple-5.0.4.jar;E:\minecraft\libraries\org\apache\commons\commons-compress\1.21\commons-compress-1.21.jar;E:\minecraft\libraries\org\apache\commons\commons-lang3\3.12.0\commons-lang3-3.12.0.jar;E:\minecraft\libraries\org\apache\httpcomponents\httpclient\4.5.13\httpclient-4.5.13.jar;E:\minecraft\libraries\org\apache\httpcomponents\httpcore\4.4.15\httpcore-4.4.15.jar;E:\minecraft\libraries\org\apache\logging\log4j\log4j-api\2.19.0\log4j-api-2.19.0.jar;E:\minecraft\libraries\org\apache\logging\log4j\log4j-core\2.19.0\log4j-core-2.19.0.jar;E:\minecraft\libraries\org\apache\logging\log4j\log4j-slf4j2-impl\2.19.0\log4j-slf4j2-impl-2.19.0.jar;E:\minecraft\libraries\org\joml\joml\1.10.5\joml-1.10.5.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-arm64.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-glfw\3.3.1\lwjgl-glfw-3.3.1-natives-windows-x86.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-arm64.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-jemalloc\3.3.1\lwjgl-jemalloc-3.3.1-natives-windows-x86.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-arm64.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-openal\3.3.1\lwjgl-openal-3.3.1-natives-windows-x86.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-arm64.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-opengl\3.3.1\lwjgl-opengl-3.3.1-natives-windows-x86.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-arm64.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-stb\3.3.1\lwjgl-stb-3.3.1-natives-windows-x86.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-arm64.jar;E:\minecraft\libraries\org\lwjgl\lwjgl-tinyfd\3.3.1\lwjgl-tinyfd-3.3.1-natives-windows-x86.jar;E:\minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1.jar;E:\minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows.jar;E:\minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-arm64.jar;E:\minecraft\libraries\org\lwjgl\lwjgl\3.3.1\lwjgl-3.3.1-natives-windows-x86.jar;E:\minecraft\libraries\org\slf4j\slf4j-api\2.0.1\slf4j-api-2.0.1.jar;E:\minecraft\libraries\optifine\launchwrapper-of\2.3\launchwrapper-of-2.3.jar;E:\minecraft\libraries\cpw\mods\securejarhandler\2.1.6\securejarhandler-2.1.6.jar;E:\minecraft\libraries\org\ow2\asm\asm\9.3\asm-9.3.jar;E:\minecraft\libraries\org\ow2\asm\asm-commons\9.3\asm-commons-9.3.jar;E:\minecraft\libraries\org\ow2\asm\asm-tree\9.3\asm-tree-9.3.jar;E:\minecraft\libraries\org\ow2\asm\asm-util\9.3\asm-util-9.3.jar;E:\minecraft\libraries\org\ow2\asm\asm-analysis\9.3\asm-analysis-9.3.jar;E:\minecraft\libraries\net\minecraftforge\accesstransformers\8.0.4\accesstransformers-8.0.4.jar;E:\minecraft\libraries\org\antlr\antlr4-runtime\4.9.1\antlr4-runtime-4.9.1.jar;E:\minecraft\libraries\net\minecraftforge\eventbus\6.0.3\eventbus-6.0.3.jar;E:\minecraft\libraries\net\minecraftforge\forgespi\6.0.0\forgespi-6.0.0.jar;E:\minecraft\libraries\net\minecraftforge\coremods\5.0.1\coremods-5.0.1.jar;E:\minecraft\libraries\cpw\mods\modlauncher\10.0.8\modlauncher-10.0.8.jar;E:\minecraft\libraries\net\minecraftforge\unsafe\0.2.0\unsafe-0.2.0.jar;E:\minecraft\libraries\com\electronwill\night-config\core\3.6.4\core-3.6.4.jar;E:\minecraft\libraries\com\electronwill\night-config\toml\3.6.4\toml-3.6.4.jar;E:\minecraft\libraries\org\apache\maven\maven-artifact\3.8.5\maven-artifact-3.8.5.jar;E:\minecraft\libraries\net\jodah\typetools\0.8.3\typetools-0.8.3.jar;E:\minecraft\libraries\net\minecrell\terminalconsoleappender\1.2.0\terminalconsoleappender-1.2.0.jar;E:\minecraft\libraries\org\jline\jline-reader\3.12.1\jline-reader-3.12.1.jar;E:\minecraft\libraries\org\jline\jline-terminal\3.12.1\jline-terminal-3.12.1.jar;E:\minecraft\libraries\org\spongepowered\mixin\0.8.5\mixin-0.8.5.jar;E:\minecraft\libraries\org\openjdk\nashorn\nashorn-core\15.3\nashorn-core-15.3.jar;E:\minecraft\libraries\net\minecraftforge\JarJarSelector\0.3.19\JarJarSelector-0.3.19.jar;E:\minecraft\libraries\net\minecraftforge\JarJarMetadata\0.3.19\JarJarMetadata-0.3.19.jar;E:\minecraft\libraries\cpw\mods\bootstraplauncher\1.1.2\bootstraplauncher-1.1.2.jar;E:\minecraft\libraries\net\minecraftforge\JarJarFileSystems\0.3.19\JarJarFileSystems-0.3.19.jar;E:\minecraft\libraries\optifine\OptiFine\1.19.4_HD_U_I4\OptiFine-1.19.4_HD_U_I4.jar;E:\minecraft\libraries\net\minecraftforge\fmlloader\1.19.4-45.0.50\fmlloader-1.19.4-45.0.50.jar;E:\minecraft\versions\1.19.4-Forge_45.0.50-OptiFine_I4\1.19.4-Forge_45.0.50-OptiFine_I4.jar" -Djava.net.preferIPv6Addresses=system -DignoreList=bootstraplauncher,securejarhandler,asm-commons,asm-util,asm-analysis,asm-tree,asm,JarJarFileSystems,client-extra,fmlcore,javafmllanguage,lowcodelanguage,mclanguage,forge-,1.19.4-Forge_45.0.50-OptiFine_I4.jar -DmergeModules=jna-5.10.0.jar,jna-platform-5.10.0.jar -DlibraryDirectory="E:\minecraft\libraries" -p "E:\minecraft\libraries"/cpw/mods/bootstraplauncher/1.1.2/bootstraplauncher-1.1.2.jar;"E:\minecraft\libraries"/cpw/mods/securejarhandler/2.1.6/securejarhandler-2.1.6.jar;"E:\minecraft\libraries"/org/ow2/asm/asm-commons/9.3/asm-commons-9.3.jar;"E:\minecraft\libraries"/org/ow2/asm/asm-util/9.3/asm-util-9.3.jar;"E:\minecraft\libraries"/org/ow2/asm/asm-analysis/9.3/asm-analysis-9.3.jar;"E:\minecraft\libraries"/org/ow2/asm/asm-tree/9.3/asm-tree-9.3.jar;"E:\minecraft\libraries"/org/ow2/asm/asm/9.3/asm-9.3.jar;"E:\minecraft\libraries"/net/minecraftforge/JarJarFileSystems/0.3.19/JarJarFileSystems-0.3.19.jar --add-modules ALL-MODULE-PATH --add-opens java.base/java.util.jar=cpw.mods.securejarhandler --add-opens java.base/java.lang.invoke=cpw.mods.securejarhandler --add-exports java.base/sun.security.util=cpw.mods.securejarhandler --add-exports jdk.naming.dns/com.sun.jndi.dns=java.naming -Xmn256m -Xmx5017m -Dlog4j2.formatMsgNoLookups=true --add-exports cpw.mods.bootstraplauncher/cpw.mods.bootstraplauncher=ALL-UNNAMED -jar "C:\Users\34062\AppData\Roaming\PCL\JavaWrapper.jar" cpw.mods.bootstraplauncher.BootstrapLauncher --username LYF --version 1.19.4-Forge_45.0.50-OptiFine_I4 --gameDir "E:\minecraft\versions\1.19.4-Forge_45.0.50-OptiFine_I4" --assetsDir "E:\minecraft\assets" --assetIndex 3 --uuid 00000XXXXXXXXXXXXXXXXXXXXXX119FA --accessToken 00000XXXXXXXXXXXXXXXXXXXXXX119FA --clientId ${clientid} --xuid ${auth_xuid} --userType Legacy --versionType PCL2 --width 854 --height 480 --launchTarget forgeclient --fml.forgeVersion 45.0.50 --fml.mcVersion 1.19.4 --fml.forgeGroup net.minecraftforge --fml.mcpVersion 20230314.122934 --tweakClass optifine.OptiFineForgeTweaker 
+[09:24:42.055] [Loader] 加载器 获取启动参数 状态改变：Finished
+[09:24:42.089] [Loader] 加载器 解压文件 状态改变：Loading
+[09:24:42.104] [Launch] 正在解压 Natives 文件
+[09:24:42.104] [Loader] 加载器 解压文件 状态改变：Finished
+[09:24:42.144] [Loader] 加载器 预启动处理 状态改变：Loading
+[09:24:42.169] [Launch] 并非首次启动，不修改语言
+[09:24:42.177] [Loader] 加载器 预启动处理 状态改变：Finished
+[09:24:42.193] [Loader] 加载器 执行自定义命令 状态改变：Loading
+[09:24:42.210] [Loader] 加载器 执行自定义命令 状态改变：Finished
+[09:24:42.240] [Loader] 加载器 启动进程 状态改变：Loading
+[09:24:42.327] [Launch] 已启动游戏进程：D:\Program Files\Java\jdk-17\bin\javaw.exe
+[09:24:42.327] [Loader] 加载器 启动进程 状态改变：Finished
+[09:24:42.433] [Loader] 加载器 等待游戏窗口出现 状态改变：Loading
+[09:24:42.433] [Launch] 
+[09:24:42.433] [Launch] ~ 基础参数 ~
+[09:24:42.433] [Launch] PCL2 版本：Release 2.4.9 (281)
+[09:24:42.433] [Launch] 游戏版本：1.19.4, Forge 45.0.50, OptiFine I4（19.4）
+[09:24:42.433] [Launch] 资源版本：3
+[09:24:42.433] [Launch] 版本继承：无
+[09:24:42.433] [Launch] 分配的内存：4.9 GB（5018 MB）
+[09:24:42.433] [Launch] MC 文件夹：E:\minecraft\
+[09:24:42.433] [Launch] 版本文件夹：E:\minecraft\versions\1.19.4-Forge_45.0.50-OptiFine_I4\
+[09:24:42.433] [Launch] 版本隔离：True
+[09:24:42.433] [Launch] HMCL 格式：False
+[09:24:42.433] [Launch] Java 信息：JDK 17 (17.0.7)，64 位：D:\Program Files\Java\jdk-17\bin\
+[09:24:42.433] [Launch] 环境变量：未设置
+[09:24:42.433] [Launch] 
+[09:24:42.433] [Launch] ~ 登录参数 ~
+[09:24:42.433] [Launch] 玩家用户名：LYF
+[09:24:42.433] [Launch] AccessToken：00000XXXXXXXXXXXXXXXXXXXXXX119FA
+[09:24:42.433] [Launch] ClientToken：00000XXXXXXXXXXXXXXXXXXXXXX119FA
+[09:24:42.433] [Launch] UUID：00000XXXXXXXXXXXXXXXXXXXXXX119FA
+[09:24:42.433] [Launch] 登录方式：Legacy
+[09:24:42.433] [Launch] 
+[09:24:42.446] [Launch] [20152] 开始 Minecraft 日志监控
+[09:24:42.447] [Launch] [全局] 出现运行中的 Minecraft
+[09:24:46.027] [Launch] [20152] 日志 1/5：已出现日志输出
+[09:24:59.945] [Launch] [20152] 日志 2/5：游戏用户已设置
+[09:25:00.679] [Launch] [20152] Minecraft 窗口已加载：Minecraft* 1.19.4（3476308）
+[09:25:00.679] [Launch] [20152] 日志 3/5：LWJGL 版本已确认
+[09:25:00.679] [Launch] [20152] Minecraft 加载已完成
+[09:25:00.770] [Loader] 加载器 等待游戏窗口出现 状态改变：Finished
+[09:25:00.843] [Loader] 加载器 结束处理 状态改变：Loading
+[09:25:00.849] [Launch] 开始启动结束处理
+[09:25:00.850] [Launch] 启动器可见性：2
+[09:25:00.850] [Launch] 已根据设置，在启动后隐藏启动器
+[09:25:00.850] [Loader] 加载器 结束处理 状态改变：Finished
+[09:25:00.951] [Loader] 加载器 Minecraft 启动 状态改变：Finished
+[09:25:00.965] [System] 窗口已隐藏，位置：(-9767.5,84)
+[09:25:01.086] [Loader] 加载器 Loader Launch 状态改变：Finished
+[09:25:01.149] [UI] 弹出提示：1.19.4-Forge_45.0.50-OptiFine_I4 启动成功！
+[09:25:09.407] [Animation] 两个动画帧间隔 203 ms
+[09:25:09.847] [Animation] 两个动画帧间隔 328 ms
+[09:25:10.484] [Animation] 两个动画帧间隔 359 ms
+[09:25:21.985] [Launch] [20152] 日志 4/5：OpenAL 已加载
+[09:25:21.985] [Launch] [20152] 日志 5/5：材质已加载
+[09:28:02.503] [Animation] 两个动画帧间隔 282 ms
+[09:28:03.319] [Animation] 两个动画帧间隔 437 ms
+[09:28:03.408] [Animation] 两个动画帧间隔 266 ms
+[09:33:50.232] [Animation] 两个动画帧间隔 672 ms
+[09:33:52.286] [Animation] 两个动画帧间隔 422 ms
+[09:33:53.074] [Animation] 两个动画帧间隔 469 ms
+[09:33:53.750] [Animation] 两个动画帧间隔 297 ms
+[09:33:55.015] [Animation] 两个动画帧间隔 390 ms
+[09:33:55.986] [Animation] 两个动画帧间隔 312 ms
+[09:33:56.442] [Animation] 两个动画帧间隔 265 ms
+[09:33:57.012] [Animation] 两个动画帧间隔 281 ms
+[09:34:10.037] [Animation] 两个动画帧间隔 406 ms
+[09:34:11.265] [Animation] 两个动画帧间隔 375 ms
+[09:34:13.459] [Animation] 两个动画帧间隔 1531 ms
+[09:34:14.075] [Animation] 两个动画帧间隔 438 ms
+[09:34:15.045] [Animation] 两个动画帧间隔 469 ms
+[09:34:16.195] [Animation] 两个动画帧间隔 438 ms
+[09:34:16.805] [Animation] 两个动画帧间隔 312 ms
+[09:34:17.489] [Animation] 两个动画帧间隔 250 ms
+[09:34:17.894] [Animation] 两个动画帧间隔 281 ms
+[09:35:02.827] [Launch] [20152] Minecraft 已退出，返回值：0
+[09:35:02.830] [Launch] [全局] 已无运行中的 Minecraft
+[09:35:02.899] [System] 收到关闭指令
+[09:35:03.066] [Launch] [20152] Minecraft 日志监控已退出
+[09:35:03.152] [System] 程序已退出，返回值：Success

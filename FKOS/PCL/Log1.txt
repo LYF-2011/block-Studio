@@ -1,0 +1,40 @@
+[20:57:37.938] [Start] 程序版本：Release 2.4.9（281）
+[20:57:37.940] [Start] 识别码：E2E9-F73F-6A56-74AD
+[20:57:37.940] [Start] 程序路径：C:\FKOS\Plain Craft Launcher 2.exe
+[20:57:37.948] [Start] 第一阶段加载用时：78 ms
+[20:57:38.089] [Loader] 加载器 Minecraft Folder List 状态改变：Loading
+[20:57:38.090] [Start] 第二阶段加载用时：141 ms
+[20:57:38.108] [Loader] 加载器 Minecraft Folder List 状态改变：Finished
+[20:57:38.537] [System] 窗口已置顶，位置：(232.5, 84), 815 x 584
+[20:57:38.548] [Animation] 动画线程开始
+[20:57:38.580] [Start] 第三阶段加载用时：156 ms
+[20:57:38.580] [Start] 加载 DLL：Json
+[20:57:38.583] [System] 获取资源：Json
+[20:57:38.591] [System] 尝试缓存加载主页自定义数据（0）
+[20:57:38.601] [Launch] Minecraft 文件夹：E:\minecraft\
+[20:57:38.713] [Loader] 加载器 Loader Skin Legacy 状态改变：Loading
+[20:57:38.717] [Loader] 加载器 Loader Skin Legacy 状态改变：Finished
+[20:57:38.776] [Skin] 载入头像成功：Loader Skin Legacy
+[20:57:38.776] [Animation] 两个动画帧间隔 203 ms
+[20:57:38.870] [Java] 缓存中有 4 个可用的 Java
+[20:57:38.948] [Minecraft] 启动按钮：Minecraft 版本：E:\minecraft\versions\1.19.4-Forge_45.0.50-OptiFine_I4\
+[20:57:38.956] [Loader] 加载器 登录 状态改变：Loading
+[20:57:38.959] [Launch] 登录加载已开始
+[20:57:38.963] [Loader] 加载器 Loader Login Legacy 状态改变：Loading
+[20:57:38.964] [Launch] 登录方式：离线（LYF）
+[20:57:38.966] [Loader] 加载器 Loader Login Legacy 状态改变：Finished
+[20:57:38.996] [Launch] 登录加载已结束
+[20:57:38.996] [Loader] 加载器 登录 状态改变：Finished
+[20:57:39.090] [Loader] 加载器 DlClientList Mojang 状态改变：Loading
+[20:57:39.098] [Loader] 加载器 PCL2 服务 状态改变：Loading
+[20:57:39.105] [Server] 正在连接到 PCL2 服务器
+[20:57:39.108] [Net] 获取网络结果：https://launchermeta.mojang.com/mc/game/version_manifest.json，最大超时 10000
+[20:57:39.170] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.cfg?sign=1683809859-2bdc8a36-0-521555274259f105f17d61675aede778，最大超时 10000
+[20:57:39.209] [Server] 服务器公告：104|291|286|5，本地公告编号：102，需更新
+[20:57:39.221] [Net] 获取网络结果：http://pcl2-server-1253424809.file.myqcloud.com/notice.json?sign=1683809859-6860eab2-0-ee6e6269f71c78e42410f6b925d37fe4，最大超时 10000
+[20:57:39.260] [Loader] 加载器 PCL2 服务 状态改变：Finished
+[20:57:39.263] [System] DPI：192，系统版本：10.0.23451.0，PCL 位置：C:\FKOS\Plain Craft Launcher 2.exe
+[20:57:40.637] [Report] FPS 0, 动画 12, 下载中 0（0 B/s）
+[20:57:41.267] [Control] 按下图标按钮：BtnTitleClose
+[20:57:41.275] [System] 收到关闭指令
+[20:57:41.544] [System] 程序已退出，返回值：Success

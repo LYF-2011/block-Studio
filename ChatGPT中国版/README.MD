@@ -1,2 +1,4 @@
-绿色程序，双击即可使用
-![chat-shot](https://github.com/LYF-2011/block-Studio/assets/129654427/5aca27ef-18a9-47d4-84b3-df4a4b1a00ec)
+ChatGPT中国版
+为ChatGPT UI，免翻墙，免登录，免费背景
+速度极快
+绿色软件
